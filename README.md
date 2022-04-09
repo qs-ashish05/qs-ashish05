@@ -17,9 +17,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Ashish | LinkedIn" width="30px" src="https://instagram.com/qs_ashish_.05?igshid=YmMyMTA2M2Y=" />][linkedin]
-[<img align="left" alt="Mahesh | YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Mahesh | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="mahesh | LinkedIn" width="30px" src="https://instagram.com/qs_ashish_.05?igshid=YmMyMTA2M2Y=" />][Instagram]
 
 <br>
 
@@ -43,7 +41,7 @@
 
 <br>
 
-
+<!--
 <div align="center">
 
   ## Github Stats
@@ -52,7 +50,9 @@
   </a>
 </div>
 
+-->
 
+<!--
 <div align="center">
   
   ## Top Languages
@@ -60,6 +60,8 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qs_ashish05&theme=tokyonight&layout=compact">
   </a>
 </div>
+
+-->
 
 <br> 
 
@@ -76,4 +78,3 @@
 </div>
 
 </details>
-
