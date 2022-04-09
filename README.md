@@ -1,37 +1,23 @@
 ### Hi there, I am Ashish Jha!!<img height="60" width="60" src="https://media1.tenor.com/images/3ca4190df184f2329bb9f0bd06ea0cc2/tenor.gif?itemid=10604183" />
 
-## I'm a self taught Python Developer.
+## I'm a Second year Computer Engineering Student.
 
 <img align="right" height="250" width="400" src="https://media3.giphy.com/media/p4NLw3I4U0idi/giphy.gif?cid=ecf05e47u651twctsezhzbsw8myzchukcjxu7oeakq3ujf17&rid=giphy.gif" />
 <br>
 
-<!--
-**smahesh29/smahesh29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <i>
 <ul>
         <li>🔭 Machine Learning and Deep Learning Enthusiast.</li>
-        <li>🤔 Areas of Intrest: Machine Learning, Deep Learning, Computer Vision.</li>
+        <li>🤔 Areas of Intrest: Machine Learning 🤖, Deep Learning 🎰, Astronomy 🔭.</li>
         <li>💬 Ask me about anything.</li>
-        <li>📫 You can reach me via <a target="_blank" href="https://linkedin.com/in/smahesh29">LinkedIn</a>.</li>
+        <li>📫 You can reach me via <a target="_blank" href="https://instagram.com/qs_ashish_.05?igshid=YmMyMTA2M2Y=">Instagram</a>.</li>
         <li>⚡ Fun fact: I love to automate my tasks with programming.</li>
 </ul>
 </i>
 
 ### Connect with me:
 
-[<img align="left" alt="Mahesh | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Ashish | LinkedIn" width="30px" src="https://instagram.com/qs_ashish_.05?igshid=YmMyMTA2M2Y=" />][linkedin]
 [<img align="left" alt="Mahesh | YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Mahesh | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
@@ -61,8 +47,8 @@ Here are some ideas to get you started:
 <div align="center">
 
   ## Github Stats
-  <a href="https://github.com/smahesh29">
-    <img align="center" alt="Mahesh Sawant Github Stats" src="https://github-readme-stats.vercel.app/api?username=smahesh29&show_icons=true&theme=tokyonight">
+  <a href="https://github.com/qs_ashish05">
+    <img align="center" alt="Ashish Jha Github Stats" src="https://github-readme-stats.vercel.app/api?username=qs_ashish05&show_icons=true&theme=tokyonight">
   </a>
 </div>
 
@@ -70,8 +56,8 @@ Here are some ideas to get you started:
 <div align="center">
   
   ## Top Languages
-  <a href="https://github.com/smahesh29">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smahesh29&theme=tokyonight&layout=compact">
+  <a href="https://github.com/qs_ashish05">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qs_ashish05&theme=tokyonight&layout=compact">
   </a>
 </div>
 
@@ -80,7 +66,7 @@ Here are some ideas to get you started:
 <div align="center">
         
    ## Visitor Count
-   ![Visitor Count](https://profile-counter.glitch.me/{smahesh29}/count.svg)
+   ![Visitor Count](https://profile-counter.glitch.me/{qs_ashish05}/count.svg)
         
 </div>
 
@@ -91,6 +77,3 @@ Here are some ideas to get you started:
 
 </details>
 
-[twitter]: https://twitter.com/MaheshS42891252
-[youtube]: https://www.youtube.com/channel/UCSY7giAIObL7RkR6r-numiQ
-[linkedin]: https://linkedin.com/in/smahesh29
