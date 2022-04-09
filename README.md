@@ -11,13 +11,18 @@
         <li>🤔 Areas of Intrest: Machine Learning 🤖, Deep Learning 🎰, Astronomy 🔭.</li>
         <li>💬 Ask me about anything.</li>
         <li>📫 You can reach me via <a target="_blank" href="https://instagram.com/qs_ashish_.05?igshid=YmMyMTA2M2Y=">Instagram</a>.</li>
-        <li>⚡ Fun fact: I love to automate my tasks with programming.</li>
+        <li>⚡ Fun fact: All Engineers love Maths.</li>
 </ul>
 </i>
 
 ### Connect with me:
 
-[<img align="left" alt="mahesh | LinkedIn" width="30px" src="https://instagram.com/qs_ashish_.05?igshid=YmMyMTA2M2Y=" />][Instagram]
+<i>
+<ul>
+        <li>📫 You can reach me via <a target="_blank" href="https://instagram.com/qs_ashish_.05?igshid=YmMyMTA2M2Y=">Instagram</a>.</li>
+</ul>
+</i>
+
 
 <br>
 
