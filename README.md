@@ -19,7 +19,7 @@
 
 <i>
 <ul>
-        <li>📫 You can reach me via <a target="_blank" href="https://instagram.com/qs_ashish_.05?igshid=YmMyMTA2M2Y=">Instagram</a>.</li>
+        <li>📫 You can reach me via Email <a ashish.03aj@gmail.com</a>.</li>
 </ul>
 </i>
 
