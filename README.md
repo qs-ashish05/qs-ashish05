@@ -19,7 +19,7 @@
 
 <i>
 <ul>
-        <li>📫 You can reach me via Email <a ashish.03aj@gmail.com</a>.</li>
+        <li>📫 You can reach me via Email ashish.03aj@gmail.com </li>
 </ul>
 </i>
 
