@@ -46,7 +46,7 @@
 
 <br>
 
-<!--
+
 <div align="center">
 
   ## Github Stats
@@ -55,9 +55,8 @@
   </a>
 </div>
 
--->
 
-<!--
+
 <div align="center">
   
   ## Top Languages
@@ -66,7 +65,7 @@
   </a>
 </div>
 
--->
+
 
 <br> 
 
