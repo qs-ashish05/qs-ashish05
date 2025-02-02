@@ -46,7 +46,7 @@
 
 <br>
 
-
+<!--
 <div align="center">
 
   ## Github Stats
@@ -54,9 +54,10 @@
     <img align="center" alt="Ashish Jha Github Stats" src="https://github-readme-stats.vercel.app/api?username=qs_ashish05&show_icons=true&theme=tokyonight">
   </a>
 </div>
+-->
 
 
-
+<!--
 <div align="center">
   
   ## Top Languages
@@ -64,6 +65,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qs_ashish05&theme=tokyonight&layout=compact">
   </a>
 </div>
+-->
 
 
 
