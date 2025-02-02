@@ -73,7 +73,7 @@
 <div align="center">
         
    ## Visitor Count
-   ![Visitor Count](https://profile-counter.glitch.me/{qs_ashish05}/count.svg)
+   ![Visitor Count](https://profile-counter.glitch.me/{}/count.svg)
         
 </div>
 
