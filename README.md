@@ -1,4 +1,4 @@
-### Hi there, I am Ashish Jha!!<img height="60" width="60" src="https://tenor.com/en-GB/view/hand-waving-hand-emoji-gif-14999877618442267107" />
+### Hi there, I am Ashish Jha!!<img height="60" width="60" src="https://media1.tenor.com/images/3ca4190df184f2329bb9f0bd06ea0cc2/tenor.gif?itemid=10604183" alt="https://media1.tenor.com/images/3ca4190df184f2329bb9f0bd06ea0cc2/tenor.gif?itemid=10604183" />
 
 ## Exited Software Engineer.
 
