@@ -26,9 +26,7 @@
 
 <br>
 
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<!-- <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Keras" width="80px" src="https://keras.io/img/logo.png" />
 <img align="left" alt="OpenCV" width="30px" src="https://palanceli.com/2017/10/01/2017/1001opencvpy/img13.png" />
@@ -42,7 +40,29 @@
 <img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> -->
+
+### Languages and Tools:
+
+<p align="left">
+  <img src="https://cdn.simpleicons.org/visualstudiocode" alt="Visual Studio Code" width="30" height="30"/>
+  <img src="https://cdn.simpleicons.org/python" alt="Python" width="30" height="30"/>
+  <img src="https://cdn.simpleicons.org/keras" alt="Keras" width="30" height="30"/>
+  <img src="https://cdn.simpleicons.org/opencv" alt="OpenCV" width="30" height="30"/>
+  <img src="https://cdn.simpleicons.org/django" alt="Django" width="30" height="30"/>
+  <img src="https://cdn.simpleicons.org/flask" alt="Flask" width="30" height="30"/>
+  <img src="https://cdn.simpleicons.org/html5" alt="HTML5" width="30" height="30"/>
+  <img src="https://cdn.simpleicons.org/css" alt="CSS3" width="30" height="30"/>
+  <img src="https://cdn.simpleicons.org/javascript" alt="JavaScript" width="30" height="30"/>
+  <img src="https://cdn.simpleicons.org/sass" alt="Sass" width="30" height="30"/>
+  <img src="https://cdn.simpleicons.org/mysql" alt="MySQL" width="30" height="30"/>
+  <img src="https://cdn.simpleicons.org/git" alt="Git" width="30" height="30"/>
+  <img src="https://cdn.simpleicons.org/github" alt="GitHub" width="30" height="30"/>
+  <img src="https://cdn.simpleicons.org/gnubash" alt="Terminal" width="30" height="30"/>
+</p>
+
+<br>
+
 
 <br>
 
