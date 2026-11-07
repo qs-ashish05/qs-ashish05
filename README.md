@@ -12,7 +12,7 @@
         <li>🌐 Check out my portfolio: <a target="_blank" href="https://qs-ashish.netlify.app/">qs-ashish.netlify.app</a></li>
         <li>✍️ I write articles on <a target="_blank" href="https://medium.com/@qs-ashish">Medium</a>.</li>
         <li>💬 Ask me about anything.</li>
-        <li>📫 You can reach me via <a target="_blank" href="https://instagram.com/sqs_ashish">Instagram</a>.</li>
+        <li>📫 You can reach me via <a target="_blank" href="https://instagram.com/qs_ashish">Instagram</a>.</li>
         <li>⚡ Fun fact: All Engineers love Maths.</li>
 </ul>
 </i>
