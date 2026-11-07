@@ -1,4 +1,4 @@
-### Hi there, I am Ashish Jha!!<img height="60" width="60" src="https://media1.tenor.com/images/3ca4190df184f2329bb9f0bd06ea0cc2/tenor.gif?itemid=10604183" alt="waving hand" />
+### Hi there, I am Ashish Jha!!<img height="40" width="40" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="waving hand" />
 
 ## Excited Software Engineer.
 
@@ -45,18 +45,3 @@
 <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<br>
-<br>
-
-<div align="center">
-
-   ## Visitor Count
-   ![Visitor Count](https://profile-counter.glitch.me/{qs_ashish05}/count.svg)
-
-</div>
-
-<div align="center">
-
-<b>❤️ Thank you for visiting my Github Profile ❤️</b>
-</div>
